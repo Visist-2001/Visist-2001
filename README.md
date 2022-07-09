@@ -30,7 +30,12 @@ print(rect.get_perimeter())
 print(rect)
 print(rect.get_picture())
 
-
+sq = shape_calculator.Square(9)
+print(sq.get_area())
+sq.set_side(4)
+print(sq.get_diagonal())
+print(sq)
+print(sq.get_picture())
 
 rect.set_height(8)
 rect.set_width(16)
