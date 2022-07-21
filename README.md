@@ -50,7 +50,15 @@ Rectangle(width=10, height=3)
 **********
 **********
 
+81
+5.656854249492381
+Square(side=4)
+****
+****
+****
+****
 
+8
 ```
 
 The unit tests for this project are in `test_module.py`.
